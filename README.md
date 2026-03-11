@@ -12,9 +12,15 @@ Interested in software engineering, algorithms, and problem solving.
 - SQL
 
 ## Projects
+
 - Smart Expense Splitter
-- Ride Sharing Queue System
-- Online Examination Portal
+Python-based CLI application that calculates group balances and minimizes settlement transactions using a greedy algorithm.  
+GitHub: https://github.com/sirichandanaa-arch/expense-splitter-python
+
+- Ride Allocation System 
+Collaborative ride management system for assigning drivers to ride requests.  
+Worked on UI components using HTML, CSS and JavaScript.  
+Repository: https://github.com/Joshika625248/ride-allocation-system
 
 ## Coding Profiles
 LeetCode: https://leetcode.com/u/DnoTDsqX84  
