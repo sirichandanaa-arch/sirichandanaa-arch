@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Siri Chandana
 
-<!--
-**sirichandanaa-arch/sirichandanaa-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate specializing in Data Science.  
+Interested in software engineering, algorithms, and problem solving.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- C
+- Data Structures
+- Algorithms
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Smart Expense Splitter
+- Ride Sharing Queue System
+- Online Examination Portal
+
+## Coding Profiles
+LeetCode: https://leetcode.com/u/DnoTDsqX84  
+HackerRank: https://www.hackerrank.com/profile/siriakula2006  
+CodeChef: https://www.codechef.com/users/smack_lamp_57
