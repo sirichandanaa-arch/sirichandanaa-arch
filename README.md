@@ -13,14 +13,21 @@ Interested in software engineering, algorithms, and problem solving.
 
 ## Projects
 
-- Smart Expense Splitter
-Python-based CLI application that calculates group balances and minimizes settlement transactions using a greedy algorithm.  
-GitHub: https://github.com/sirichandanaa-arch/expense-splitter-python
+🌱 Smart Irrigation Water Monitoring
+AI-assisted smart irrigation system using ESP32, IoT sensors, and machine learning concepts to monitor water quality, classify contamination levels, and automate water flow control.
+GitHub: your repository link
 
-- Ride Allocation System 
-Collaborative ride management system for assigning drivers to ride requests.  
-Worked on UI components using HTML, CSS and JavaScript.  
-Repository: https://github.com/Joshika625248/ride-allocation-system
+📊 Spring Boot + MongoDB CRUD
+Developed a CRUD application using Spring Boot and MongoDB, implementing REST APIs for efficient data management and database operations.
+GitHub: your repository link
+
+💰 Smart Expense Splitter
+Python-based CLI application that calculates group balances and minimizes settlement transactions using a greedy algorithm.
+GitHub: your repository link
+
+🚗 Ride Allocation System
+Collaborative ride management system with an interactive user interface built using HTML, CSS, and JavaScript.
+GitHub: repository link
 
 ## Coding Profiles
 LeetCode: https://leetcode.com/u/DnoTDsqX84  
