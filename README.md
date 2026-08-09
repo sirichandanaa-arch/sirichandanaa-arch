@@ -58,6 +58,9 @@ GitHub: https://github.com/sirichandanaa-arch/expense-splitter-python
 
 ## 💻 Coding Profiles
 
-LeetCode: https://leetcode.com/u/DnoTDsqX84  
-HackerRank: https://www.hackerrank.com/profile/sirikula2006  
-CodeChef: https://www.codechef.com/users/smack_lamp_57
+- [LeetCode](https://leetcode.com/u/DnoTDsqX84/)
+- [CodeChef](https://www.codechef.com/users/smack_lamp_57)
+
+## 📊 Data Science Profile
+
+- [Kaggle](https://www.kaggle.com/akulasirichandhana)
