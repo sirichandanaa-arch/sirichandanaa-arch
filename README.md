@@ -58,8 +58,8 @@ GitHub: https://github.com/sirichandanaa-arch/expense-splitter-python
 
 ## 💻 Coding Profiles
 
-- [LeetCode](https://leetcode.com/u/DnoTDsqX84/)
 - [CodeChef](https://www.codechef.com/users/smack_lamp_57)
+- [LeetCode](https://leetcode.com/u/DnoTDsqX84/)
 
 ## 📊 Data Science Profile
 
