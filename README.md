@@ -1,45 +1,64 @@
-# Hi, I'm Siri Chandana
+# Hi, I'm Siri Chandana 👋
 
 Computer Science undergraduate specializing in Data Science.  
-Interested in software engineering, algorithms, and problem solving.
+Interested in Artificial Intelligence, Data Science, software development, and problem solving.
 
-## Skills
+## 🛠️ Skills
+
 - Python
 - Java
 - C
-- Data Structures
-- Algorithms
 - SQL
+- Data Structures & Algorithms
+- Machine Learning
+- Data Analysis & Visualization
+- Generative AI
+- Git & GitHub
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🌱 Smart Irrigation Water Monitoring
-AI-assisted smart irrigation system using ESP32, IoT sensors, and machine learning concepts to monitor water quality, classify contamination levels, and automate water flow control.
+### 🏛️ Heritage Guardian AI
+AI-powered multi-agent platform for heritage conservation using Google Gemini, computer vision, historical grounding, risk prediction, and restoration planning.
 
-**GitHub:** https://github.com/sirichandanaa-arch/smart-irrigation-water-monitoring
+GitHub: https://github.com/GADADESI-HARSHITH/Heritage_Guardian_ai
 
 ---
 
-### 📊 Spring Boot + MongoDB CRUD
-Developed a CRUD application using Spring Boot and MongoDB, implementing REST APIs for efficient data management and database operations.
+### ⚡ Energy Guard
+AI-powered campus energy monitoring and analytics platform with real-time monitoring, anomaly detection, forecasting, and an interactive dashboard.
 
-**GitHub:** https://github.com/sirichandanaa-arch/springboot-mongodb-crud
+GitHub: https://github.com/sirichandanaa-arch/energy-guard
+
+---
+
+### 📊 MarketMind
+AI-powered sales and marketing intelligence platform featuring analytics dashboards, AI-powered insights, and data visualization.
+
+GitHub: https://github.com/sirichandanaa-arch/MarketMind
+
+---
+
+### 🌱 Smart Irrigation Water Monitoring
+AI-assisted smart irrigation system using ESP32 and IoT sensors to monitor water quality, classify contamination levels, and automate water flow control.
+
+GitHub: https://github.com/sirichandanaa-arch/smart-irrigation-water-monitoring
+
+---
+
+### 🤖 Customer Support Agent
+AI-powered customer support agent built with Python.
+
+GitHub: https://github.com/sirichandanaa-arch/customer-support-agent
 
 ---
 
 ### 💰 Smart Expense Splitter
-Python-based CLI application that calculates group balances and minimizes settlement transactions using a greedy algorithm.
+Python-based expense sharing system that calculates group balances and minimizes settlement transactions using a greedy algorithm.
 
-**GitHub:** https://github.com/sirichandanaa-arch/expense-splitter-python
+GitHub: https://github.com/sirichandanaa-arch/expense-splitter-python
 
----
+## 💻 Coding Profiles
 
-### 🚗 Ride Allocation System
-Collaborative ride management system with an interactive user interface built using HTML, CSS, and JavaScript.
-
-**GitHub:** https://github.com/Joshika625248/ride-allocation-system
-
-## Coding Profiles
 LeetCode: https://leetcode.com/u/DnoTDsqX84  
-HackerRank: https://www.hackerrank.com/profile/siriakula2006  
+HackerRank: https://www.hackerrank.com/profile/sirikula2006  
 CodeChef: https://www.codechef.com/users/smack_lamp_57
