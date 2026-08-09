@@ -7,7 +7,6 @@ Interested in Artificial Intelligence, Data Science, software development, and p
 
 - Python
 - Java
-- C
 - SQL
 - Data Structures & Algorithms
 - Machine Learning
